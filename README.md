@@ -7,7 +7,7 @@ Sistema de listagem de usuários validados , utilizando os conhecimentos na áre
 ![Logo do Node.js](https://img.shields.io/badge/Node.js-2B8244?style=for-the-badge&logo=node.js&logoColor=white)
 ![Logo do JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 <img src="https://www2.ifal.edu.br/acesso-a-sistemas/logo2.png/@@images/image.png" alt="Logo do Ifal" style="width:auto; height:28px;"/>
 
 
