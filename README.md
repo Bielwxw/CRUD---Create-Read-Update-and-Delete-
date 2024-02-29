@@ -3,7 +3,7 @@
 
 Sistema de listagem de usuários validados , utilizando os conhecimentos na área de front-end e back-end . 
 
-
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Logo do Node.js](https://img.shields.io/badge/Node.js-2B8244?style=for-the-badge&logo=node.js&logoColor=white)
 ![Logo do JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
