@@ -11,6 +11,11 @@ Sistema de listagem de usuários validados , utilizando os conhecimentos na áre
 <img src="https://www2.ifal.edu.br/acesso-a-sistemas/logo2.png/@@images/image.png" alt="Logo do Ifal" style="width:auto; height:28px;"/>
 
 
+### Mapa de funcionamento 
+
+![Mapa conceitual do projeto](./mapa-funcionamento.PNG)
+
+
 ## Colaboradores 🤝🏻
 
 <img align="right" height="150px" src="https://media4.giphy.com/media/v1.Y2lk PTc5MGI3NjExd2VycTI3dzRyOWgxd2FvdzRlaHZyb2tpemU1ZHZnaDd0NWdscTBzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/utfeiHQ7CcpyRtXla6/giphy.gif">
