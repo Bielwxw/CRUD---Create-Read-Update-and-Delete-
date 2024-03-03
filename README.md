@@ -48,7 +48,7 @@ Sistema de listagem de usuários validados , utilizando os conhecimentos na áre
 ### Considerações sobre a aplicação desenvolvida. 💭
 
 **Sobre o projeto...**
-foi uma jornada desafiadora e enriquecedora para nossa equipe. Distribuímos as responsabilidades entre Darlesson (HTML), Luiza (CSS) e Gabriel auxiliando (back-end), enfrentando dificuldades técnicas ao longo do caminho.Além disso,reconhecemos a importância da validação de dados em aplicações web. No geral, o projeto nos proporcionou crescimento profissional e pessoal, e estamos confiantes de que as lições aprendidas serão aplicadas em futuros projetos.
+foi uma jornada desafiadora e enriquecedora para nossa equipe. Distribuímos as responsabilidades entre Darlleson (HTML), Luiza (CSS) e Gabriel auxiliando (back-end), enfrentando dificuldades técnicas ao longo do caminho.Além disso,reconhecemos a importância da validação de dados em aplicações web. No geral, o projeto nos proporcionou crescimento profissional e pessoal, e estamos confiantes de que as lições aprendidas serão aplicadas em futuros projetos.
 
 ### Ideia descartada 🗑 
 
