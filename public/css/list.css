@@ -1,5 +1,7 @@
 body{
     background-image: url('/img/background-img-list.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #img{
