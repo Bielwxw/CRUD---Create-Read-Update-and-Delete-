@@ -190,7 +190,7 @@ app.post('/register', (req, res) => {
     }
     else {
         res.status(200).json();
-        users.push({ id, ...req.body });
+        users.push({ id:++id , ...req.body });
     }
 });
 
