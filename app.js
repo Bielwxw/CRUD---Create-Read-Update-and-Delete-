@@ -23,7 +23,7 @@ app.use(bodyParser.json());
 // Configurar o motor de visualização EJS
 app.set('view engine', 'ejs');
 
-app.use(express.static('public'));
+app.use(express.static('public')); 
 
 const estadosBrasileiros = [
     "Acre",
@@ -105,7 +105,7 @@ app.post('/register', (req, res) => {
     if (!nome) {
         msg.nome = "Nome é requerido"
     } else if (nome.trim() === "") {
-        msg.nome = "Nome precisa ter no mínimo 3 letras"
+        msg.nome = "Não pode haver espaços nesse formato"
     } else if (nome.length < 3) {
         msg.nome = "Nome precisa ter no mínimo 3 letras"
     }
