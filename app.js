@@ -6,14 +6,14 @@ const express = require('express');
 const app = express();
 
 
-// Lista que simula banco de dados da aplicação ;
+// Lista que simula banco de dados da aplicação ; 
 
 let users = [
     { id: 0, nome: 'paulo', data_nascimento: '2006-04-18', sexo: "masculino" },
     { id: 1, nome: 'joão', data_nascimento: '2006-04-18', sexo: "masculino" },
     { id: 2, nome: 'marcio', data_nascimento: '2006-04-18', sexo: "masculino" },
 ]
-let id = 2;
+let id = 2; 
 
 
 // Configurar o Body Parser
@@ -102,7 +102,7 @@ app.post('/register', (req, res) => {
 
     const msg = {};
 
-    if (!nome) {
+    if (!nome) { 
         msg.nome = "Nome é requerido"
     } else if (nome.trim() === "") {
         msg.nome = "Não pode haver espaços nesse formato"
@@ -149,6 +149,8 @@ app.post('/register', (req, res) => {
         msg.renda_mensal = 'Renda mensal tem que ser um valor numérico'
     } else if (renda_mensal < 0 || renda_mensal == -0) {
         msg.renda_mensal = 'Renda mensal não pode ser negativa'
+    }else if (Number(renda_mensal).toFixed(2) !== renda_mensal) {
+        msg.renda_mensal = 'só aceita com duas casas decimais'
     }
 
     if (!logradouro) {
