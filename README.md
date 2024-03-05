@@ -15,6 +15,9 @@ Sistema de listagem de usuários validados , utilizando os conhecimentos na áre
 
 ![Mapa conceitual do projeto](./mapa-funcionamento.PNG)
 
+<hr>
+
+![imagem da relação de colaboradores](./colaboradores.png)
 
 ## Colaboradores 🤝🏻
 
