@@ -17,7 +17,7 @@ Sistema de listagem de usuários validados , utilizando os conhecimentos na áre
 
 <hr>
 
-![imagem da relação de colaboradores](./colaboradores.png)
+
 
 ## Colaboradores 🤝🏻
 
@@ -30,7 +30,11 @@ Sistema de listagem de usuários validados , utilizando os conhecimentos na áre
 | Aluna | Luiza Alves | Lulu |
 | Aluno | Darlleson Lessa | DL | 
 
+<hr>
 
+### Integrantes 
+
+![imagem da relação de colaboradores](./colab.png)
 
 ## Anexos 📌
 
